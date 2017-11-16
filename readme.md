@@ -12,4 +12,10 @@ GUI:
 ![Graphic User Interface](https://github.com/biaoge/Images/blob/master/SentimentAnalysis.png)
 
 
+<br>
+------
+
+Hadoop MapReduce Java Code Directory: src
+<br>
+Front end UI: Sentiment_visulization
 
